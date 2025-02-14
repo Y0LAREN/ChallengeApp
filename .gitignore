@@ -1,0 +1,21 @@
+# macOS файлы
+.DS_Store
+
+# Xcode временные файлы и каталоги
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Файлы, генерируемые Xcode
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Swift Package Manager
+.build/
+
+# Дополнительные каталоги, которые могут создаваться Xcode
+*.hmap

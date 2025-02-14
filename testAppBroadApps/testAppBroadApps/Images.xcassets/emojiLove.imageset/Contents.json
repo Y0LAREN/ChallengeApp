@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "Smiling Face With Heart Eyes (1).pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
