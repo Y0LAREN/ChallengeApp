@@ -13,7 +13,7 @@ workflows:
           - certificate_credentials # <-- (CERTIFICATE_PRIVATE_KEY - Put your Certificate Private Key here)
           #- other
         vars:
-          XCODE_WORKSPACE: "testAppBroadApps.xcodeproj" # <-- Put the name of your workspace here.
+          XCODE_PROJECT: "testAppBroadApps.xcodeproj" # <-- Put the name of your workspace here.
           XCODE_SCHEME: "testAppBroadApps" # <-- Put the name of your scheme here.
           BUNDLE_ID: "com.gab.sp0rtsch4l" # <-- Put your Bundle Id here.
           APP_STORE_APPLE_ID: 6741873190 # <-- Put the app id number here. This is found in App Store Connect > App > General > App Information
