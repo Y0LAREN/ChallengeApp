@@ -63,7 +63,6 @@ workflows:
         email:
             recipients:
               - kaantarar777@hotmail.com
-              - kaоntarar779@hotmail.com
             notify:
               success: true
               failure: true
